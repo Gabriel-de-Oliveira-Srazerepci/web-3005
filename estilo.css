@@ -19,4 +19,5 @@ img{
     max-height: 55%;
     width: auto;
     height: auto;
+    align-self: normal;
 }
